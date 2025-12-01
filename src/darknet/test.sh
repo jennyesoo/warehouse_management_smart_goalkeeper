@@ -1,0 +1,1 @@
+./darknet detector map ../data/obj.data ../yolov4-obj.cfg backup/yolov4-obj_final.weights -thresh 0.7

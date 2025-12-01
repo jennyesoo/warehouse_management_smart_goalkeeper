@@ -1,0 +1,1 @@
+./darknet detector train ../data/obj.data ../yolov4-obj.cfg yolov4.conv.137 -dont_show
